@@ -1,0 +1,324 @@
+Período2,Período,Região,Estado,Tipo,Quantidade
+2020-01,Jan 2020,Sudeste,São Paulo,DENV1:V,3
+2020-01,Jan 2020,Sudeste,São Paulo,DENV2:III-Asian-American,7
+2020-02,Fev 2020,Sudeste,São Paulo,DENV1:V,2
+2020-02,Fev 2020,Sudeste,São Paulo,DENV2:III-Asian-American,6
+2020-03,Mar 2020,Sudeste,São Paulo,DENV1:V,2
+2020-03,Mar 2020,Sudeste,São Paulo,DENV2:III-Asian-American,2
+2020-04,Abr 2020,Sudeste,São Paulo,DENV1:V,1
+2020-04,Abr 2020,Sudeste,São Paulo,DENV2:III-Asian-American,1
+2021-01,Jan 2021,Sudeste,São Paulo,DENV2:III-Asian-American,2
+2021-01,Jan 2021,Sudeste,São Paulo,DENV1:V,1
+2021-02,Fev 2021,Norte,Acre,DENV2:II-Cosmopolitan,2
+2021-02,Fev 2021,Sudeste,São Paulo,DENV1:V,3
+2021-02,Fev 2021,Sudeste,São Paulo,DENV2:III-Asian-American,4
+2021-03,Mar 2021,Nordeste,Bahia,DENV1:V,3
+2021-03,Mar 2021,Norte,Pará,DENV1:V,1
+2021-03,Mar 2021,Sudeste,São Paulo,DENV1:V,26
+2021-03,Mar 2021,Sudeste,São Paulo,DENV2:III-Asian-American,10
+2021-04,Abr 2021,Sudeste,São Paulo,DENV2:III-Asian-American,16
+2021-04,Abr 2021,Sudeste,São Paulo,DENV3:V,1
+2021-04,Abr 2021,Sudeste,São Paulo,DENV1:V,62
+2021-05,Mai 2021,Centro-oeste,Mato Grosso do Sul,DENV2:III-Asian-American,1
+2021-05,Mai 2021,Nordeste,Bahia,DENV1:V,2
+2021-05,Mai 2021,Sudeste,São Paulo,DENV1:V,12
+2021-05,Mai 2021,Sudeste,São Paulo,DENV2:III-Asian-American,8
+2021-06,Jun 2021,Sudeste,São Paulo,DENV1:V,4
+2021-06,Jun 2021,Sudeste,São Paulo,DENV2:III-Asian-American,2
+2021-06,Jun 2021,Sudeste,Rio de Janeiro,DENV1:V,5
+2021-06,Jun 2021,Norte,Pará,DENV1:V,2
+2021-06,Jun 2021,Centro-oeste,Mato Grosso do Sul,DENV2:III-Asian-American,3
+2021-06,Jun 2021,Norte,Tocantins,DENV2:III-Asian-American,2
+2021-07,Jul 2021,Sudeste,Rio de Janeiro,DENV1:V,3
+2021-07,Jul 2021,Centro-oeste,Mato Grosso do Sul,DENV2:II-Cosmopolitan,1
+2021-07,Jul 2021,Centro-oeste,Mato Grosso do Sul,DENV2:III-Asian-American,1
+2021-07,Jul 2021,Nordeste,Pernambuco,DENV2:II-Cosmopolitan,2
+2021-07,Jul 2021,Norte,Pará,DENV1:V,2
+2021-08,Ago 2021,Norte,Pará,DENV1:V,2
+2021-09,Set 2021,Sudeste,Minas Gerais,DENV1:V,1
+2021-09,Set 2021,Norte,Pará,DENV1:V,1
+2021-10,Out 2021,Norte,Pará,DENV1:V,1
+2021-11,Nov 2021,Norte,Tocantins,DENV1:V,24
+2021-11,Nov 2021,Norte,Pará,DENV1:V,1
+2021-12,Dez 2021,Norte,Pará,DENV1:V,2
+2021-12,Dez 2021,Norte,Tocantins,DENV1:V,17
+2021-12,Dez 2021,Norte,Tocantins,DENV2:III-Asian-American,2
+2022-01,Jan 2022,Sul,Paraná,DENV1:V,1
+2022-01,Jan 2022,Sudeste,São Paulo,DENV2:II-Cosmopolitan,1
+2022-01,Jan 2022,Sul,Rio Grande do Sul,DENV2:II-Cosmopolitan,1
+2022-01,Jan 2022,Norte,Tocantins,DENV1:V,2
+2022-01,Jan 2022,Norte,Acre,DENV2:II-Cosmopolitan,4
+2022-01,Jan 2022,Sudeste,São Paulo,DENV1:V,3
+2022-02,Fev 2022,Centro-oeste,Goiás,DENV2:II-Cosmopolitan,2
+2022-02,Fev 2022,Norte,Acre,DENV2:II-Cosmopolitan,6
+2022-02,Fev 2022,Sudeste,São Paulo,DENV1:V,17
+2022-02,Fev 2022,Sudeste,São Paulo,DENV2:II-Cosmopolitan,1
+2022-02,Fev 2022,Sul,Paraná,DENV1:V,8
+2022-02,Fev 2022,Sul,Paraná,DENV2:II-Cosmopolitan,2
+2022-02,Fev 2022,Norte,Tocantins,DENV1:V,2
+2022-03,Mar 2022,Sul,Rio Grande do Sul,DENV1:V,20
+2022-03,Mar 2022,Sul,Paraná,DENV2:II-Cosmopolitan,27
+2022-03,Mar 2022,Centro-oeste,Mato Grosso do Sul,DENV2:II-Cosmopolitan,1
+2022-03,Mar 2022,Sul,Rio Grande do Sul,DENV2:III-Asian-American,2
+2022-03,Mar 2022,Sul,Santa Catarina,DENV2:II-Cosmopolitan,1
+2022-03,Mar 2022,Sul,Paraná,DENV1:V,34
+2022-03,Mar 2022,Sul,Rio Grande do Sul,DENV2:II-Cosmopolitan,1
+2022-03,Mar 2022,Sudeste,São Paulo,DENV2:III-Asian-American,6
+2022-03,Mar 2022,Centro-oeste,Goiás,DENV2:II-Cosmopolitan,1
+2022-03,Mar 2022,Sudeste,São Paulo,DENV1:V,56
+2022-03,Mar 2022,Norte,Tocantins,DENV1:V,8
+2022-03,Mar 2022,Norte,Pará,DENV1:V,3
+2022-03,Mar 2022,Nordeste,Pernambuco,DENV1:V,1
+2022-03,Mar 2022,Centro-oeste,Mato Grosso do Sul,DENV1:V,37
+2022-03,Mar 2022,Centro-oeste,Mato Grosso,DENV2:II-Cosmopolitan,1
+2022-03,Mar 2022,Sudeste,São Paulo,DENV2:II-Cosmopolitan,5
+2022-04,Abr 2022,Sudeste,São Paulo,DENV2:III-Asian-American,5
+2022-04,Abr 2022,Sudeste,São Paulo,DENV2:II-Cosmopolitan,1
+2022-04,Abr 2022,Sul,Paraná,DENV1:V,45
+2022-04,Abr 2022,Sudeste,Minas Gerais,DENV2:II-Cosmopolitan,4
+2022-04,Abr 2022,Sul,Rio Grande do Sul,DENV1:V,28
+2022-04,Abr 2022,Sul,Rio Grande do Sul,DENV2:II-Cosmopolitan,11
+2022-04,Abr 2022,Sul,Rio Grande do Sul,DENV2:III-Asian-American,4
+2022-04,Abr 2022,Sul,Paraná,DENV2:II-Cosmopolitan,17
+2022-04,Abr 2022,Sudeste,Minas Gerais,DENV1:V,1
+2022-04,Abr 2022,Sudeste,São Paulo,DENV1:V,76
+2022-04,Abr 2022,Norte,Amazonas,DENV1:V,1
+2022-04,Abr 2022,Norte,Pará,DENV1:V,3
+2022-04,Abr 2022,Norte,Acre,DENV2:II-Cosmopolitan,10
+2022-04,Abr 2022,Nordeste,Pernambuco,DENV1:V,1
+2022-04,Abr 2022,Nordeste,Bahia,DENV2:II-Cosmopolitan,1
+2022-04,Abr 2022,Centro-oeste,Mato Grosso do Sul,DENV2:II-Cosmopolitan,2
+2022-04,Abr 2022,Centro-oeste,Mato Grosso do Sul,DENV1:V,132
+2022-04,Abr 2022,Centro-oeste,Mato Grosso,DENV2:II-Cosmopolitan,1
+2022-04,Abr 2022,Centro-oeste,Goiás,DENV2:II-Cosmopolitan,2
+2022-05,Mai 2022,Sul,Rio Grande do Sul,DENV2:II-Cosmopolitan,1
+2022-05,Mai 2022,Sul,Rio Grande do Sul,DENV1:V,22
+2022-05,Mai 2022,Sul,Paraná,DENV2:II-Cosmopolitan,4
+2022-05,Mai 2022,Sul,Paraná,DENV1:V,22
+2022-05,Mai 2022,Sudeste,São Paulo,DENV2:III-Asian-American,1
+2022-05,Mai 2022,Sudeste,São Paulo,DENV1:V,27
+2022-05,Mai 2022,Sudeste,Minas Gerais,DENV2:II-Cosmopolitan,4
+2022-05,Mai 2022,Sudeste,São Paulo,DENV3:V,1
+2022-05,Mai 2022,Norte,Pará,DENV1:V,2
+2022-05,Mai 2022,Norte,Acre,DENV2:II-Cosmopolitan,4
+2022-05,Mai 2022,Nordeste,Bahia,DENV2:II-Cosmopolitan,6
+2022-05,Mai 2022,Nordeste,Alagoas,DENV2:III-Asian-American,2
+2022-05,Mai 2022,Nordeste,Alagoas,DENV1:V,5
+2022-05,Mai 2022,Centro-oeste,Mato Grosso do Sul,DENV1:V,3
+2022-05,Mai 2022,Centro-oeste,Goiás,DENV2:II-Cosmopolitan,1
+2022-05,Mai 2022,Sudeste,Minas Gerais,DENV1:V,5
+2022-06,Jun 2022,Sul,Paraná,DENV1:V,2
+2022-06,Jun 2022,Sudeste,Minas Gerais,DENV2:II-Cosmopolitan,4
+2022-06,Jun 2022,Sudeste,Minas Gerais,DENV1:V,7
+2022-06,Jun 2022,Norte,Tocantins,DENV1:V,3
+2022-06,Jun 2022,Norte,Pará,DENV1:V,8
+2022-06,Jun 2022,Norte,Acre,DENV2:II-Cosmopolitan,2
+2022-06,Jun 2022,Nordeste,Maranhão,DENV2:II-Cosmopolitan,1
+2022-06,Jun 2022,Nordeste,Alagoas,DENV2:III-Asian-American,2
+2022-06,Jun 2022,Nordeste,Alagoas,DENV1:V,3
+2022-06,Jun 2022,Nordeste,Sergipe,DENV2:II-Cosmopolitan,10
+2022-07,Jul 2022,Norte,Tocantins,DENV1:V,1
+2022-07,Jul 2022,Nordeste,Bahia,DENV2:II-Cosmopolitan,1
+2022-07,Jul 2022,Nordeste,Pernambuco,DENV1:V,3
+2022-07,Jul 2022,Nordeste,Sergipe,DENV2:II-Cosmopolitan,3
+2022-07,Jul 2022,Norte,Acre,DENV2:II-Cosmopolitan,1
+2022-07,Jul 2022,Norte,Pará,DENV1:V,2
+2022-07,Jul 2022,Sudeste,Minas Gerais,DENV1:V,2
+2022-08,Ago 2022,Norte,Pará,DENV1:V,1
+2022-08,Ago 2022,Nordeste,Alagoas,DENV1:V,1
+2022-09,Set 2022,Norte,Pará,DENV1:V,1
+2022-09,Set 2022,Sudeste,Minas Gerais,DENV1:V,1
+2022-10,Out 2022,Nordeste,Bahia,DENV1:V,4
+2022-10,Out 2022,Norte,Amazonas,DENV2:II-Cosmopolitan,6
+2022-10,Out 2022,Norte,Pará,DENV1:V,5
+2022-10,Out 2022,Sudeste,Minas Gerais,DENV1:V,1
+2022-11,Nov 2022,Sul,Rio Grande do Sul,DENV2:III-Asian-American,1
+2022-11,Nov 2022,Sudeste,Minas Gerais,DENV1:V,3
+2022-11,Nov 2022,Norte,Pará,DENV1:V,3
+2022-11,Nov 2022,Norte,Amazonas,DENV2:II-Cosmopolitan,7
+2022-11,Nov 2022,Nordeste,Bahia,DENV1:V,1
+2022-11,Nov 2022,Nordeste,Ceará,DENV1:V,1
+2022-12,Dez 2022,Nordeste,Bahia,DENV1:V,2
+2022-12,Dez 2022,Nordeste,Ceará,DENV1:V,2
+2022-12,Dez 2022,Sudeste,Minas Gerais,DENV1:V,6
+2022-12,Dez 2022,Sudeste,Minas Gerais,DENV2:III-Asian-American,1
+2023-01,Jan 2023,Sudeste,São Paulo,DENV1:V,31
+2023-01,Jan 2023,Sudeste,São Paulo,DENV2:II-Cosmopolitan,2
+2023-01,Jan 2023,Norte,Amazonas,DENV1:V,1
+2023-01,Jan 2023,Sul,Rio Grande do Sul,DENV1:V,2
+2023-01,Jan 2023,Sul,Santa Catarina,DENV2:II-Cosmopolitan,1
+2023-01,Jan 2023,Sudeste,Minas Gerais,DENV2:III-Asian-American,5
+2023-01,Jan 2023,Sudeste,São Paulo,DENV2:III-Asian-American,1
+2023-01,Jan 2023,Sudeste,Espírito Santo,DENV1:V,3
+2023-01,Jan 2023,Nordeste,Bahia,DENV1:V,2
+2023-01,Jan 2023,Norte,Rondônia,DENV2:II-Cosmopolitan,3
+2023-01,Jan 2023,Norte,Rondônia,DENV1:V,1
+2023-01,Jan 2023,Norte,Amazonas,DENV2:II-Cosmopolitan,10
+2023-01,Jan 2023,Nordeste,Ceará,DENV1:V,1
+2023-01,Jan 2023,Nordeste,Bahia,DENV2:II-Cosmopolitan,1
+2023-01,Jan 2023,Centro-oeste,Mato Grosso,DENV1:V,1
+2023-01,Jan 2023,Norte,Roraima,DENV3:III,2
+2023-02,Fev 2023,Sudeste,Rio de Janeiro,DENV2:II-Cosmopolitan,3
+2023-02,Fev 2023,Sudeste,Minas Gerais,DENV2:III-Asian-American,2
+2023-02,Fev 2023,Sudeste,Rio de Janeiro,DENV1:V,1
+2023-02,Fev 2023,Sudeste,São Paulo,DENV1:V,50
+2023-02,Fev 2023,Sudeste,Minas Gerais,DENV1:V,28
+2023-02,Fev 2023,Sudeste,São Paulo,DENV2:III-Asian-American,1
+2023-02,Fev 2023,Sul,Rio Grande do Sul,DENV1:V,20
+2023-02,Fev 2023,Sul,Rio Grande do Sul,DENV2:II-Cosmopolitan,1
+2023-02,Fev 2023,Sul,Santa Catarina,DENV1:V,1
+2023-02,Fev 2023,Sudeste,São Paulo,DENV2:II-Cosmopolitan,1
+2023-02,Fev 2023,Sudeste,Espírito Santo,DENV1:V,2
+2023-02,Fev 2023,Centro-oeste,Mato Grosso,DENV1:V,8
+2023-02,Fev 2023,Norte,Rondônia,DENV1:V,6
+2023-02,Fev 2023,Centro-oeste,Distrito Federal,DENV1:V,1
+2023-02,Fev 2023,Centro-oeste,Goiás,DENV1:V,1
+2023-02,Fev 2023,Nordeste,Bahia,DENV1:V,4
+2023-02,Fev 2023,Nordeste,Bahia,DENV2:II-Cosmopolitan,8
+2023-02,Fev 2023,Norte,Rondônia,DENV2:II-Cosmopolitan,8
+2023-02,Fev 2023,Nordeste,Ceará,DENV1:V,11
+2023-02,Fev 2023,Norte,Amazonas,DENV1:V,5
+2023-02,Fev 2023,Norte,Amazonas,DENV2:II-Cosmopolitan,10
+2023-02,Fev 2023,Norte,Pará,DENV1:V,2
+2023-02,Fev 2023,Nordeste,Bahia,DENV2:III-Asian-American,2
+2023-03,Mar 2023,Sudeste,Rio de Janeiro,DENV1:V,15
+2023-03,Mar 2023,Norte,Tocantins,DENV2:II-Cosmopolitan,1
+2023-03,Mar 2023,Sudeste,Espírito Santo,DENV1:V,6
+2023-03,Mar 2023,Sudeste,Minas Gerais,DENV1:V,2
+2023-03,Mar 2023,Sudeste,Minas Gerais,DENV2:II-Cosmopolitan,2
+2023-03,Mar 2023,Sudeste,Minas Gerais,DENV2:III-Asian-American,13
+2023-03,Mar 2023,Sudeste,Rio de Janeiro,DENV2:II-Cosmopolitan,2
+2023-03,Mar 2023,Sul,Rio Grande do Sul,DENV2:II-Cosmopolitan,17
+2023-03,Mar 2023,Sudeste,São Paulo,DENV1:V,80
+2023-03,Mar 2023,Sudeste,São Paulo,DENV2:II-Cosmopolitan,7
+2023-03,Mar 2023,Sul,Paraná,DENV3:III,1
+2023-03,Mar 2023,Sul,Rio Grande do Sul,DENV1:V,71
+2023-03,Mar 2023,Norte,Tocantins,DENV1:V,1
+2023-03,Mar 2023,Sul,Santa Catarina,DENV1:V,7
+2023-03,Mar 2023,Sul,Santa Catarina,DENV2:II-Cosmopolitan,2
+2023-03,Mar 2023,Sudeste,Rio de Janeiro,DENV2:III-Asian-American,1
+2023-03,Mar 2023,Norte,Roraima,DENV3:III,1
+2023-03,Mar 2023,Sudeste,São Paulo,DENV2:III-Asian-American,1
+2023-03,Mar 2023,Norte,Rondônia,DENV1:V,3
+2023-03,Mar 2023,Norte,Rondônia,DENV2:II-Cosmopolitan,2
+2023-03,Mar 2023,Centro-oeste,Distrito Federal,DENV1:V,2
+2023-03,Mar 2023,Centro-oeste,Goiás,DENV1:V,13
+2023-03,Mar 2023,Centro-oeste,Mato Grosso,DENV1:V,19
+2023-03,Mar 2023,Nordeste,Bahia,DENV1:V,9
+2023-03,Mar 2023,Nordeste,Bahia,DENV2:II-Cosmopolitan,6
+2023-03,Mar 2023,Nordeste,Bahia,DENV2:III-Asian-American,6
+2023-03,Mar 2023,Centro-oeste,Mato Grosso do Sul,DENV1:V,14
+2023-03,Mar 2023,Nordeste,Maranhão,DENV1:V,1
+2023-03,Mar 2023,Nordeste,Paraíba,DENV1:V,1
+2023-03,Mar 2023,Norte,Pará,DENV1:V,1
+2023-03,Mar 2023,Nordeste,Sergipe,DENV1:V,1
+2023-03,Mar 2023,Nordeste,Sergipe,DENV2:II-Cosmopolitan,2
+2023-03,Mar 2023,Norte,Amazonas,DENV1:V,1
+2023-03,Mar 2023,Norte,Amazonas,DENV2:II-Cosmopolitan,1
+2023-03,Mar 2023,Nordeste,Ceará,DENV1:V,34
+2023-04,Abr 2023,Sudeste,Espírito Santo,DENV2:II-Cosmopolitan,2
+2023-04,Abr 2023,Sudeste,Minas Gerais,DENV1:V,7
+2023-04,Abr 2023,Sudeste,Minas Gerais,DENV2:II-Cosmopolitan,3
+2023-04,Abr 2023,Sudeste,Minas Gerais,DENV2:III-Asian-American,10
+2023-04,Abr 2023,Sudeste,São Paulo,DENV1:V,49
+2023-04,Abr 2023,Sudeste,Rio de Janeiro,DENV2:III-Asian-American,1
+2023-04,Abr 2023,Sudeste,São Paulo,DENV2:II-Cosmopolitan,3
+2023-04,Abr 2023,Sudeste,Espírito Santo,DENV1:V,20
+2023-04,Abr 2023,Sul,Santa Catarina,DENV1:V,9
+2023-04,Abr 2023,Sudeste,Rio de Janeiro,DENV1:V,6
+2023-04,Abr 2023,Norte,Tocantins,DENV1:V,1
+2023-04,Abr 2023,Norte,Amazonas,DENV1:V,2
+2023-04,Abr 2023,Norte,Pará,DENV1:V,2
+2023-04,Abr 2023,Norte,Amazonas,DENV2:II-Cosmopolitan,6
+2023-04,Abr 2023,Nordeste,Sergipe,DENV2:II-Cosmopolitan,2
+2023-04,Abr 2023,Nordeste,Sergipe,DENV1:V,2
+2023-04,Abr 2023,Nordeste,Ceará,DENV1:V,26
+2023-04,Abr 2023,Nordeste,Bahia,DENV2:III-Asian-American,6
+2023-04,Abr 2023,Nordeste,Bahia,DENV1:V,14
+2023-04,Abr 2023,Centro-oeste,Mato Grosso,DENV1:V,8
+2023-04,Abr 2023,Centro-oeste,Goiás,DENV1:V,3
+2023-04,Abr 2023,Centro-oeste,Distrito Federal,DENV1:V,4
+2023-04,Abr 2023,Norte,Rondônia,DENV2:II-Cosmopolitan,2
+2023-05,Mai 2023,Norte,Rondônia,DENV2:II-Cosmopolitan,4
+2023-05,Mai 2023,Norte,Tocantins,DENV1:V,3
+2023-05,Mai 2023,Sudeste,Espírito Santo,DENV1:V,31
+2023-05,Mai 2023,Sul,Santa Catarina,DENV2:II-Cosmopolitan,3
+2023-05,Mai 2023,Sudeste,Espírito Santo,DENV2:II-Cosmopolitan,4
+2023-05,Mai 2023,Sul,Santa Catarina,DENV1:V,12
+2023-05,Mai 2023,Sudeste,São Paulo,DENV1:V,38
+2023-05,Mai 2023,Sudeste,São Paulo,DENV2:II-Cosmopolitan,7
+2023-05,Mai 2023,Sul,Paraná,DENV1:V,3
+2023-05,Mai 2023,Norte,Rondônia,DENV1:V,1
+2023-05,Mai 2023,Sudeste,Minas Gerais,DENV1:V,15
+2023-05,Mai 2023,Norte,Amazonas,DENV2:II-Cosmopolitan,16
+2023-05,Mai 2023,Nordeste,Bahia,DENV2:III-Asian-American,6
+2023-05,Mai 2023,Nordeste,Sergipe,DENV2:III-Asian-American,1
+2023-05,Mai 2023,Norte,Amazonas,DENV1:V,3
+2023-05,Mai 2023,Centro-oeste,Goiás,DENV1:V,9
+2023-05,Mai 2023,Centro-oeste,Mato Grosso,DENV1:V,12
+2023-05,Mai 2023,Nordeste,Alagoas,DENV1:V,1
+2023-05,Mai 2023,Centro-oeste,Distrito Federal,DENV1:V,6
+2023-05,Mai 2023,Nordeste,Bahia,DENV2:II-Cosmopolitan,6
+2023-05,Mai 2023,Nordeste,Ceará,DENV1:V,16
+2023-05,Mai 2023,Nordeste,Sergipe,DENV1:V,1
+2023-05,Mai 2023,Nordeste,Sergipe,DENV2:II-Cosmopolitan,1
+2023-05,Mai 2023,Nordeste,Bahia,DENV1:V,15
+2023-06,Jun 2023,Norte,Tocantins,DENV2:II-Cosmopolitan,1
+2023-06,Jun 2023,Sul,Santa Catarina,DENV1:V,5
+2023-06,Jun 2023,Sul,Paraná,DENV2:III-Asian-American,1
+2023-06,Jun 2023,Sul,Paraná,DENV1:V,9
+2023-06,Jun 2023,Sudeste,São Paulo,DENV2:II-Cosmopolitan,1
+2023-06,Jun 2023,Sudeste,São Paulo,DENV1:V,10
+2023-06,Jun 2023,Sudeste,Minas Gerais,DENV1:V,1
+2023-06,Jun 2023,Sudeste,Espírito Santo,DENV1:V,3
+2023-06,Jun 2023,Norte,Tocantins,DENV1:V,4
+2023-06,Jun 2023,Norte,Amazonas,DENV1:V,2
+2023-06,Jun 2023,Norte,Pará,DENV1:V,4
+2023-06,Jun 2023,Norte,Amazonas,DENV2:II-Cosmopolitan,9
+2023-06,Jun 2023,Nordeste,Sergipe,DENV2:II-Cosmopolitan,3
+2023-06,Jun 2023,Nordeste,Sergipe,DENV1:V,2
+2023-06,Jun 2023,Nordeste,Bahia,DENV2:III-Asian-American,2
+2023-06,Jun 2023,Nordeste,Bahia,DENV2:II-Cosmopolitan,5
+2023-06,Jun 2023,Nordeste,Bahia,DENV1:V,4
+2023-06,Jun 2023,Nordeste,Alagoas,DENV1:V,1
+2023-06,Jun 2023,Norte,Rondônia,DENV2:II-Cosmopolitan,1
+2023-07,Jul 2023,Sul,Paraná,DENV1:V,6
+2023-07,Jul 2023,Sudeste,São Paulo,DENV2:II-Cosmopolitan,1
+2023-07,Jul 2023,Sudeste,São Paulo,DENV1:V,3
+2023-07,Jul 2023,Sudeste,Espírito Santo,DENV2:II-Cosmopolitan,1
+2023-07,Jul 2023,Sudeste,Espírito Santo,DENV1:V,4
+2023-07,Jul 2023,Norte,Pará,DENV1:V,2
+2023-07,Jul 2023,Nordeste,Sergipe,DENV2:II-Cosmopolitan,6
+2023-07,Jul 2023,Norte,Amazonas,DENV1:V,13
+2023-07,Jul 2023,Nordeste,Alagoas,DENV1:V,1
+2023-07,Jul 2023,Nordeste,Alagoas,DENV2:II-Cosmopolitan,1
+2023-07,Jul 2023,Norte,Amazonas,DENV2:II-Cosmopolitan,21
+2023-07,Jul 2023,Nordeste,Sergipe,DENV1:V,1
+2023-07,Jul 2023,Nordeste,Bahia,DENV1:V,1
+2023-08,Ago 2023,Nordeste,Sergipe,DENV1:V,1
+2023-08,Ago 2023,Norte,Amazonas,DENV1:V,3
+2023-08,Ago 2023,Sudeste,São Paulo,DENV1:V,7
+2023-08,Ago 2023,Sudeste,São Paulo,DENV2:II-Cosmopolitan,1
+2023-08,Ago 2023,Sudeste,São Paulo,DENV2:III-Asian-American,2
+2023-08,Ago 2023,Sudeste,Rio de Janeiro,DENV1:V,6
+2023-09,Set 2023,Sudeste,São Paulo,DENV2:II-Cosmopolitan,1
+2023-09,Set 2023,Sudeste,Espírito Santo,DENV1:V,2
+2023-09,Set 2023,Sudeste,Espírito Santo,DENV2:II-Cosmopolitan,3
+2023-09,Set 2023,Sudeste,São Paulo,DENV1:V,3
+2023-10,Out 2023,Sudeste,São Paulo,DENV2:II-Cosmopolitan,2
+2023-10,Out 2023,Sudeste,São Paulo,DENV1:V,6
+2023-11,Nov 2023,Nordeste,Pernambuco,DENV3:III,1
+2023-11,Nov 2023,Nordeste,Piauí,DENV2:II-Cosmopolitan,1
+2023-11,Nov 2023,Sudeste,Minas Gerais,DENV3:III,1
+2023-11,Nov 2023,Sudeste,Rio de Janeiro,DENV4:II,1
+2023-11,Nov 2023,Sudeste,São Paulo,DENV1:V,11
+2023-11,Nov 2023,Sudeste,São Paulo,DENV2:II-Cosmopolitan,1
+2023-11,Nov 2023,Sudeste,São Paulo,DENV3:III,4
+2023-12,Dez 2023,Sudeste,Minas Gerais,DENV1:V,1
+2023-12,Dez 2023,Sudeste,São Paulo,DENV1:V,17
+2023-12,Dez 2023,Sudeste,São Paulo,DENV2:II-Cosmopolitan,7
+2023-12,Dez 2023,Sudeste,São Paulo,DENV3:III,4
+2024-01,Jan 2024,Centro-oeste,Mato Grosso do Sul,DENV2:IV-AsianII,1
+2024-01,Jan 2024,Centro-oeste,Mato Grosso do Sul,DENV4:II,1
+2024-01,Jan 2024,Sudeste,Rio de Janeiro,DENV1:V,1
+2024-01,Jan 2024,Sudeste,São Paulo,DENV1:V,5
